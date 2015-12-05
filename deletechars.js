@@ -14,4 +14,4 @@ function extractChar(str) {
   document.write(array);
 }
 
-extractChar('hello my name is ben', 'b');
+extractChar('hello my name is frank', 'f');
